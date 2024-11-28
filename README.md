@@ -34,7 +34,7 @@ This repository contains map meshes for creating your own Among Us-inspired game
 - Advanced AI behavior support
 
 ### 6. Map Mesh Overview
-![Mesh Overview]()
+![Mesh Overview](https://i.ibb.co/XFjdPdz/map-mesh.png)
 - Comparative mesh visualization
 - Different density representations
 
