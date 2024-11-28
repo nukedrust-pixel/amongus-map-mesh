@@ -10,7 +10,7 @@ This repository contains map meshes for creating your own Among Us-inspired game
 - Reference for map design and room placement
 
 ### 2. The Skeld - 50 Combined Mesh
-![Combined Mesh]()
+![Combined Mesh](https://i.ibb.co/xFyNsGP/The-Skeld-map-mesh-50-combined.png)
 - 50-node mesh overlay
 - Combines walkable areas and vents
 - Useful for pathfinding algorithms
